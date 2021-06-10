@@ -1,2 +1,2 @@
-str: NYA = "にゃーん"
+NYA = "にゃーん"
 print(NYA)
